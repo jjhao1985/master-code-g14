@@ -1,0 +1,13 @@
+p{
+    color:red
+}
+
+.class-1 {  
+    text-transform:uppercase;
+} 
+
+#mi-id { 
+    color:blue;
+    text-transform: lowercase;
+    
+}
